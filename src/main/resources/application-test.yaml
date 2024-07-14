@@ -1,0 +1,8 @@
+feign:
+  client:
+    config:
+      order:
+        url: http://localhost:8081/orders
+
+server:
+  port: 8084

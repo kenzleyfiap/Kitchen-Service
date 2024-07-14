@@ -1,4 +1,4 @@
-package br.com.kenzley.fiap.service.kitchen;
+package br.com.kenzley.fiap.service.kitchen.client;
 
 import br.com.kenzley.fiap.service.kitchen.dto.OrderResponseDTO;
 import br.com.kenzley.fiap.service.kitchen.enums.OrderStatus;

@@ -1,6 +1,6 @@
 package br.com.kenzley.fiap.service.kitchen.business;
 
-import br.com.kenzley.fiap.service.kitchen.OrderClient;
+import br.com.kenzley.fiap.service.kitchen.client.OrderClient;
 import br.com.kenzley.fiap.service.kitchen.dto.OrderResponseDTO;
 import br.com.kenzley.fiap.service.kitchen.enums.OrderStatus;
 import lombok.RequiredArgsConstructor;
