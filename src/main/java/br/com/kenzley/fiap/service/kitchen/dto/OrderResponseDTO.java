@@ -1,5 +1,6 @@
 package br.com.kenzley.fiap.service.kitchen.dto;
 
+import br.com.kenzley.fiap.service.kitchen.enums.OrderStatus;
 import lombok.*;
 
 import java.time.LocalDateTime;
@@ -16,4 +17,5 @@ public class OrderResponseDTO {
     private CustomerRequestDTO customer;
     private List<OrderProductResponseDTO> products;
     private LocalDateTime dateTimeOrder;
+    private OrderStatus orderStatus;
 }
