@@ -4,4 +4,4 @@ WORKDIR /app
 COPY target/kitchen-1.0.0.jar kitchen-1.0.0.jar
 
 EXPOSE 8084
-CMD ["java","-jar","product-1.0.0.jar"]
+CMD ["java","-jar","kitchen-1.0.0.jar"]
