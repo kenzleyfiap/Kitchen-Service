@@ -6,7 +6,7 @@ acompanhando a fila de pedidos, atualização de status de cada passo do pedido.
 <img src="assets/fiap_services.drawio.png" width="400" height="500">
 
 ### Evidência sonar
-<img src="assets/sonar.PNG">
+<img src="assets/sonar.png">
 
 ## Comandos para rodar os testes
 
