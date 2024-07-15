@@ -2,7 +2,7 @@ feign:
   client:
     config:
       order:
-        url: http://localhost:8081/orders
+        url: ${ORDER_URL}
 
 server:
   port: 8084
